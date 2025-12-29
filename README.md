@@ -6,4 +6,4 @@ The dataset can be downloaded from Baidu Netdisk:
 
 提取码(Extraction Code): agd2
 
-##### 🔴 Tips: This dataset cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission via zhilong_li AT hust DOT edu DOT cn.
+##### 🔴 Tips: This dataset and code cannot be used for commercial purposes. For non-commercial research or educational purposes, please inform us for our permission via zhilong_li AT hust DOT edu DOT cn.
